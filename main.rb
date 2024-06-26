@@ -1,8 +1,8 @@
 require_relative 'biblioteca'
 require_relative 'livro'
 
-cabana = Livro.new("Engerenharia de Software Descomplicada", "Mauricio Aniche", :EngenhariaDeSoftware)
-teste_e_design = Livro.new("Engerenharia de Software complicada", "Mauricio Anichetes", :EngenhariaDeSoftware)
+cabana = Livro.new("Engenharia de Software Descomplicada", "Mauricio Aniche", :EngenhariaDeSoftware)
+teste_e_design = Livro.new("Engenharia de Software complicada", "Mauricio Anichetes", :EngenhariaDeSoftware)
 outro_livro = Livro.new("Prgramação WEB com Ruby", "Marco Doido", "teste")
 
 livro1 = Livro.new("Ruby Programming", "Autor A", "Tecnologia")
