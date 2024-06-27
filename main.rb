@@ -18,6 +18,8 @@ biblioteca.adicionar_livro(livro1)
 biblioteca.adicionar_livro(livro2)
 biblioteca.adicionar_livro(livro3)
 
-biblioteca.mostrar_livros_por_genero(:EngenhariaDeSoftware)
-biblioteca.mostrar_livros_por_autor("Autor A")
-biblioteca.mostrar_livros_por_titulo("Ruby")
+biblioteca.mostrar_livros
+
+biblioteca.menu
+
+#biblioteca.buscar_livro(3, "Ruby")
